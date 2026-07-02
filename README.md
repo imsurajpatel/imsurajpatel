@@ -11,15 +11,7 @@
 💡 Passionate about AI, ML, Computer Vision & Data Analytics.
 
 ## 🛠️ Tech Stack
-- Python
-- AI
-- SQL
-- Machine Learning
-- Deep Learning
-- TensorFlow
-- OpenCV
-- Streamlit
-- Git & GitHub
+- Python | AI | SQL | Machine Learning | Deep Learning | TensorFlow | OpenCV | Streamlit | Git & GitHub
 
 ## 🚀 Featured Project
 - 🧠 Brain Tumor Detection using Deep Learning
