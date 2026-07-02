@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Suraj Kumar 👋
 
-<!--
-**imsurajpatel/imsurajpatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Computer Science & Engineering
 
-Here are some ideas to get you started:
+💻 Aspiring Data Scientist & AI Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning Machine Learning, Deep Learning, and Data Science
+
+🧠 Built a Brain Tumor Detection project using Deep Learning
+
+💡 Passionate about AI, ML, Computer Vision & Data Analytics.
+
+## 🛠️ Tech Stack
+- Python
+- AI
+- SQL
+- Machine Learning
+- Deep Learning
+- TensorFlow
+- OpenCV
+- Streamlit
+- Git & GitHub
+
+## 🚀 Featured Project
+- 🧠 Brain Tumor Detection using Deep Learning
+
+## 📫 Connect with Me
+- 💼 LinkedIn: https://www.linkedin.com/in/your-linkedin
+- 📧 Email: your.email@example.com
+
+---
+⭐ Thanks for visiting my GitHub profile!
