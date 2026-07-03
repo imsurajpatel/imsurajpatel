@@ -17,8 +17,8 @@
 - 🧠 Brain Tumor Detection using Deep Learning
 
 ## 📫 Connect with Me
-- 💼 LinkedIn: https://www.linkedin.com/in/your-linkedin
-- 📧 Email: your.email@example.com
+- 💼 LinkedIn: https://www.linkedin.com/in/imsurajpatel
+- 📧 Email: itsurajpatel@gmail.com
 
 ---
 ⭐ Thanks for visiting my GitHub profile!
